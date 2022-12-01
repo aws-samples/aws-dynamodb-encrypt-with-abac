@@ -1,0 +1,2 @@
+aws-lambda-powertools==1.26.1
+dynamodb-encryption-sdk==3.1.0
